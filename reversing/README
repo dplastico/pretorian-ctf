@@ -2,6 +2,26 @@
 
 La ingeniería inversa o retroingeniería es el proceso llevado a cabo con el objetivo de obtener información o un diseño a partir de un producto, con el fin de determinar cuáles son sus componentes y de qué manera interactúan entre sí y cuál fue el proceso de fabricación.
 
+# DESAFIOS
+
+Los siguientes desafios estan disponibles que acumulan los siguients puntajes:
+
+# QUESOY? (10 puntos)
+
+https://github.com/dplastico/pretorian-ctf/tree/master/reversing/quesoy
+
+# CHECK-ME (10 puntos)
+
+https://github.com/dplastico/pretorian-ctf/tree/master/reversing/check-me
+
+# ASM (30 puntos)
+
+https://github.com/dplastico/pretorian-ctf/tree/master/reversing/asm
+
+# SOMBRA (50 puntos)
+
+https://github.com/dplastico/pretorian-ctf/tree/master/reversing/asm
+
 # FAQ y tips
 
 - Se recomienda usar linux (en HW o VM) para los desafios, es posible completarlos en otros OS, pero requiere algunos pasos adicionales
