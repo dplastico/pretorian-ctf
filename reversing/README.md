@@ -24,6 +24,7 @@ https://github.com/dplastico/pretorian-ctf/tree/master/reversing/asm
 
 # FAQ y tips
 
+- Es recomendable descargar cada archivo para un analisis más completo (se puede analizar local)
 - Se recomienda usar linux (en HW o VM) para los desafios, es posible completarlos en otros OS, pero requiere algunos pasos adicionales
 - Por que Linux?: Pues la matoria de los servidores en el mundo son Linux ;)
 - Por donde puedo comenzar?: Por donde sea, la idea es equivocarse, explorar, aprender y sufrir un poco
