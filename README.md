@@ -1,5 +1,5 @@
 # PRETORIAN CTF SEMANAL
-El CTF semana de pretorian es una instacia de aprendizaje a través de juegos, desafios y acertijos orientados a desarrollar y obtener conocimiento sobre tecnicas de hacking, computación, programación y tecnología en general.
+El CTF semanal de pretorian es una instacia de aprendizaje a través de juegos, desafios y acertijos orientados a desarrollar y obtener conocimiento sobre tecnicas de hacking, computación, programación y tecnología en general.
 
 # Que es un CTF?
 
