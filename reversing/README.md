@@ -4,7 +4,7 @@ La ingeniería inversa o retroingeniería es el proceso llevado a cabo con el ob
 
 # DESAFIOS
 
-Los siguientes desafios estan disponibles que acumulan los siguients puntajes:
+Los siguientes desafios estan disponibles y acumulan los siguients puntajes:
 
 # QUESOY? (10 puntos)
 
@@ -25,7 +25,7 @@ https://github.com/dplastico/pretorian-ctf/tree/master/reversing/asm
 # FAQ y tips
 
 - Se recomienda usar linux (en HW o VM) para los desafios, es posible completarlos en otros OS, pero requiere algunos pasos adicionales
-- Por que Linux?: Pues la matoria de los servidores en el mundo son Linux :)
+- Por que Linux?: Pues la matoria de los servidores en el mundo son Linux ;)
 - Por donde puedo comenzar?: Por donde sea, la idea es equivocarse, explorar, aprender y sufrir un poco
 - Necesito algún skill en programación?: No, pero si ayuda bastante
 - Por que es importante aprender reversing?: La ingeniería reversa nos ayuda a pensar de manera diferente y a observar cada programa de manera "inversa" de forma de poder predecir las acciones que jecutara y de esta forma lograr que realice alguna tarea diferente
