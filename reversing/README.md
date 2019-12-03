@@ -1,4 +1,4 @@
-# Reversing
+# REVERSING, Que es?
 
 La ingeniería inversa o retroingeniería es el proceso llevado a cabo con el objetivo de obtener información o un diseño a partir de un producto, con el fin de determinar cuáles son sus componentes y de qué manera interactúan entre sí y cuál fue el proceso de fabricación.
 
