@@ -1,4 +1,4 @@
-# PRETORIAN: CTF SEMANAL
+# PRETORIAN CTF SEMANAL
 El CTF semana de pretorian es una instacia de aprendizaje a través de....
 
 # Instrucciones
