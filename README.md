@@ -1,5 +1,9 @@
 # PRETORIAN CTF SEMANAL
-El CTF semana de pretorian es una instacia de aprendizaje a través de....
+El CTF semana de pretorian es una instacia de aprendizaje a través de juegos, desafios y acertijos orientados a desarrollar y obtener conocimiento sobre tecnicas de hacking, computación, programación y tecnología en general.
+
+# Que es un CTF?
+
+Un CTF (Capture The Flag) en Español, «Captura la bandera». Son competiciones gratuitas que nos permiten poner a prueba nuestras habilidades sobre hacking por medio de retos de diferentes modalidades que tendremos que resolver para conseguir el premio, la famosa flag o bandera.
 
 # Instrucciones
 
