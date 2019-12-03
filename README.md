@@ -1,5 +1,6 @@
 # PRETORIAN CTF SEMANAL
-El CTF semanal de pretorian es una instacia de aprendizaje a través de juegos, desafios y acertijos orientados a desarrollar y obtener conocimiento sobre tecnicas de hacking, computación, programación y tecnología en general.
+
+El CTF semanal de pretorian es una instancia de aprendizaje a través de juegos, desafíos y acertijos orientados a desarrollar y obtener conocimiento sobre técnicas de hacking, computación, programación y tecnología en general.
 
 # Que es un CTF?
 
@@ -7,11 +8,11 @@ Un CTF (Capture The Flag) en Español, «Captura la bandera». Son competiciones
 
 # Instrucciones
 
-- Cada semana se enviará un desafio con un tópico/técnica de seguridad y/o hacking, estos pequeños desafios cuentan con instrucciones minimas, apuntando al ingenio de cada participante, los resultados y/o banderas deben enviarse a renato.garreton@pretorian-ti.com.
-- Los desafos cuentan con un puntaje basado en dificultas y primer acercamiento a la tecnología, cada desafio desbloqueado asignara un puntaje, el cual se publicara al final del tiempo del desafio
-- Una vez conlcuido el tiempo del desafio se publicaran las soluciones con un "paso a paso" esto para que todos quienes quieran, puedan aprender e intentar nuevamente los problemas propuestos.
-- Cada desafio tiene puntajes e instrucciones diferentes, por lo que se recomienda leer cada una con detención
+- Cada semana se enviará un desafío con un tópico/técnica de seguridad y/o hacking, estos pequeños desafios cuentan con instrucciones mínimas, apuntando al ingenio de cada participante, los resultados y/o banderas deben enviarse a renato.garreton@pretorian-ti.com.
+- Los desafíos cuentan con un puntaje basado en dificultad y primer acercamiento a la tecnología, cada desafío desbloqueado asignará un puntaje, el cual se publicará al final del tiempo del desafío
+- Una vez concluido el tiempo del desafío se publicaran las soluciones con un "paso a paso" esto para que todos quienes quieran, puedan aprender e intentar nuevamente los problemas propuestos
+- Cada desafío tiene puntajes e instrucciones diferentes, por lo que se recomienda leer cada una con detención
 
 # Semana 1: Reversing
 
-Esta semana tenemos el desafio de reversing, ubicado en https://github.com/dplastico/pretorian-ctf/tree/master/reversing
+Esta semana tenemos el desafio de reversing, ubicado en https://github.com/dplastico/pretorian-ctf/tree/master/reversing y tienes plazo para resolverlo hasta el Viernes 6 de diciembre a las 10:00 AM
